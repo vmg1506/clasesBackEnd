@@ -1,0 +1,16 @@
+[
+	{
+		"id": null,
+		"firstName": "victor",
+		"lastName": "grajales",
+		"email": "vmg@mail.com",
+		"age": 32,
+		"cours": [
+			"node.js",
+			"javascript",
+			"HTML",
+			"CSS"
+		],
+		"password": "483fab61f3932ff0ed356c0733d85198b7b85b9dde435a2dc985460cec9918941e472415595bbd23244378a41b27fc2e5e3a28658ca660b897ebda9a2fceeb96"
+	}
+]

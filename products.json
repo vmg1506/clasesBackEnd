@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Xbox Series s",
+    "description": "Best low-price new generation console",
+    "price": 299,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_986729-MLA69587766137_052023-O.webp",
+    "code": "xbs01",
+    "stock": 25,
+    "id": 4
+  },
+  {
+    "title": "Playstation 5",
+    "description": "Best console of the market",
+    "price": 429,
+    "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/ps5-sony-consola-1600378972.jpg?crop=0.75993091537133xw:1xh;center,top&resize=1200:*",
+    "code": "ps501",
+    "stock": 5,
+    "id": 5
+  }
+]
